@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface CYCViewController : UIViewController
+#import "MHTabBarController.h"
+@interface CYCViewController : UIViewController<MHTabBarControllerDelegate>
 
 @end
