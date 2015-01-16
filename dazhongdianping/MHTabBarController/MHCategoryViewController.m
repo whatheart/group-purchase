@@ -9,7 +9,7 @@
 #import "MHCategoryViewController.h"
 #define LeftWidth 32*5
 #define RightWidth 32*5
-#define TableViewHeight 460
+#define TableViewHeight 260
 #define TABBAR_HEIGHT 44
 #define TOPIC_COLOR [UIColor colorWithRed:0.95 green:0.95 blue:0.95 alpha:1]
 #define TEXT_COLOR_WHITE [UIColor whiteColor]

@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 #import "MHTabBarController.h"
-@interface CYCViewController : UIViewController<MHTabBarControllerDelegate>
+@interface CYCViewController : UIViewController<MHTabBarControllerDelegate,UIScrollViewDelegate>
 
 @end
